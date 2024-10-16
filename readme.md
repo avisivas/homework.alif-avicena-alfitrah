@@ -1,7 +1,7 @@
 # GRUP A LIGA TARKAM
 
 ## Studi Kasus
-karena banyaknya masyarakat kabupaten tegal khususnya daerah adiwerna yang banyak gemar bermain dan menonton bola, maka saya membuat program ini demi membangun persepakbolaan kabupaten tegal.
+karena banyaknya masyarakat kabupaten tegal khususnya daerah adiwerna yang gemar bermain dan menonton bola, maka saya membuat program ini demi membangun persepakbolaan kabupaten tegal.
 
 ## Proses Codingan
 1. Inisiasi Data
@@ -48,4 +48,6 @@ Proses yang sama diulang untuk tim ke empat:
 Setelah semua tim dinilai, tampilkan pesan selamat dan semangat:
    >print("SELAMAT UNTUK LUWUNG FC DAN PERSEBAT LOLOS KE 16 BESAR")
     print("TETAP SEMANGAT UNTUK TEAM YANG BELUM LOLOS DAN COBA LAGI DI TURNAMEN BERIKUTNA")
-    print("MATURNUWUN")
+    print("MATURNUWUNUWUN")
+   
+![flowchart](FFF.png)

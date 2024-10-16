@@ -16,6 +16,6 @@ nama_team = str(input("Nama Team : "))
 point3 = int(input("Point : "))
 status = "lolos 16 besar" if point3 >6 else "tidak lolos"
 print(status)
-print("SELAMAT UNTUK LUWUNG FC DAN PERSEBAT LOLOS KE 16 BESAR")
+print("SELAMAT UNTUK TEAM LOLOS KE 16 BESAR")
 print("TETAP SEMANGAT UNTUK TEAM YANG BELUM LOLOS DAN COBA LAGI DI TURNAMEN BERIKUTNA")
 print("MATURNUWUN")
